@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ## Installation :
 
 1. Install database schema which can be found under sql directory.
@@ -10,4 +10,4 @@ veritrans-php-sample-cart-new
 =============================
 
 New Sample Cart for VT Web 2.0
->>>>>>> e2d8da9dcabecafd3ea0068f66bc568552a811a3
+
